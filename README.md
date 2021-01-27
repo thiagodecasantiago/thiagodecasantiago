@@ -21,5 +21,5 @@
   <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
   <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="40" height="40"/> </a>
-  <a href=https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
